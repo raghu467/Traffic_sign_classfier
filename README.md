@@ -33,27 +33,28 @@ EPOCHS = 10
 BATCH_SIZE = 150
 Learning rate = 0.005
 
-# Layer 1: Convolutional. Input = 32x32x1. 
+### Layer 1: Convolutional.
+Input = 32x32x1. 
 Output = 28x28x6. 
 Activation:Relu
 Pooling. Input = 28x28x6. Output = 14x14x6.
 
-# Layer 2: Convolutional.
+### Layer 2: Convolutional.
 Output = 10x10x16. 
 Activation:Relu
 Pooling. Input = 10x10x16. Output = 5x5x16.
 
-# Layer 3: Fully Connected. 
+### Layer 3: Fully Connected. 
 Input = 400.
 Output = 120.
 Activation:Relu
 
-# Layer 4: Fully Connected.
+### Layer 4: Fully Connected.
 Input = 120.
 Output = 84. 
 Activation:Relu
 
-# Layer 5: Fully Connected.
+### Layer 5: Fully Connected.
 Input = 84. 
 Output = 43. 
 Activation:Relu
