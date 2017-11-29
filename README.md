@@ -59,6 +59,13 @@ Input = 84.
 Output = 43. 
 Activation:Relu
 
+
+The final model accuracy are as follows:
+Validation Accuracy = 0.969
+Test Accuracy: 0.9230408072471619
+
+I have used the Lenet athitecture  and modified it to meet the requirements of the current problem statement and tweaked the above mentioned parameters to get the accuracy greater than 0.93.
+
 The following are the 5 images take from the internet to test the algorithm.
 
 ![alt tag](https://github.com/raghu467/Traffic_sign_classfier/blob/master/Readme_images/data_samples_5.png)
