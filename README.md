@@ -13,6 +13,9 @@ The following are the image references from the 43 different German Traffic sign
 
 ![alt tag](https://github.com/raghu467/Traffic_sign_classfier/blob/master/Readme_images/43_data_samples.png)
 
+The size of the data-set used for the algorithm are as follows:
+![alt tag](https://github.com/raghu467/Traffic_sign_classfier/blob/master/Readme_images/data_details.PNG)
+
 ## Data Distrubution histogram for the train, Test and validation data sets:
 
 ![alt tag](https://github.com/raghu467/Traffic_sign_classfier/blob/master/Readme_images/train_hist_un_normal.png)
@@ -72,11 +75,11 @@ The following are the 5 images take from the internet to test the algorithm.
 
 The prediction for the above mentioned 5 images are are follows:
 
-![alt tag] (add image for web image predictions)
+![alt tag] (https://github.com/raghu467/Traffic_sign_classfier/blob/master/Readme_images/web_image_prediciton.png)
 
 The prediction accuracy for the web images is 0.06
 
-If the images would have been better cropped and if the border pixels would have been removed during the prediction could have been better.
+If the images would have been better cropped and if the border pixels would have been removed during the prediction could have been imrpoved.Still the speed sign was detected as a speed sign but the number was mis-matched.
 
 
 
