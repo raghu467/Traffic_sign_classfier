@@ -70,4 +70,15 @@ The following are the 5 images take from the internet to test the algorithm.
 
 ![alt tag](https://github.com/raghu467/Traffic_sign_classfier/blob/master/Readme_images/data_samples_5.png)
 
+The prediction for the above mentioned 5 images are are follows:
+
+![alt tag] (add image for web image predictions)
+
+The prediction accuracy for the web images is 0.06
+
+If the images would have been better cropped and if the border pixels would have been removed during the prediction could have been better.
+
+
+
+
  
