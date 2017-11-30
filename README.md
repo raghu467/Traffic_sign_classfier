@@ -64,8 +64,8 @@ Activation:Relu
 
 
 The final model accuracy are as follows:
-Validation Accuracy = 0.969
-Test Accuracy: 0.9230408072471619
+Validation Accuracy = 0.981
+Test Accuracy: 0.9243863821029663
 
 I have used the Lenet athitecture  and modified it to meet the requirements of the current problem statement and tweaked the above mentioned parameters to get the accuracy greater than 0.93.
 
