@@ -77,7 +77,7 @@ The prediction for the above mentioned 5 images are are follows:
 
 ![alt tag](https://github.com/raghu467/Traffic_sign_classfier/blob/master/Readme_images/web_image_prediciton.png)
 
-The prediction accuracy for the web images is 0.06
+The prediction accuracy for the web images is 0.60
 
 If the images would have been better cropped and if the border pixels would have been removed during the prediction could have been imrpoved.Still the speed sign was detected as a speed sign but the number was mis-matched.
 
