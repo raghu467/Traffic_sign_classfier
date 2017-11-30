@@ -14,6 +14,7 @@ The following are the image references from the 43 different German Traffic sign
 ![alt tag](https://github.com/raghu467/Traffic_sign_classfier/blob/master/Readme_images/43_data_samples.png)
 
 The size of the data-set used for the algorithm are as follows:
+
 ![alt tag](https://github.com/raghu467/Traffic_sign_classfier/blob/master/Readme_images/data_details.PNG)
 
 ## Data Distrubution histogram for the train, Test and validation data sets:
@@ -64,7 +65,9 @@ Activation:Relu
 
 
 The final model accuracy are as follows:
+
 Validation Accuracy = 0.981
+
 Test Accuracy: 0.9243863821029663
 
 I have used the Lenet athitecture  and modified it to meet the requirements of the current problem statement and tweaked the above mentioned parameters to get the accuracy greater than 0.93.
